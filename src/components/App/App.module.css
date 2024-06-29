@@ -1,0 +1,10 @@
+.container {
+  max-width: 1280px;
+  padding: 16px;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 4px;
+  margin-top: 16px;
+}
